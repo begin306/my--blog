@@ -46,7 +46,7 @@ export default function Home() {
             </Link>
           </div>
           <div className="flex flex-col items-center max-w-xs">
-            <Image src="/github.jpg" alt="blog" width={380} height={380} />
+            <Image src="/git.jpg" alt="blog" width={380} height={380} />
             <h1 className="text-2xl font-bold mt-2 text-center">GitHub</h1>
             <p className="text-center">
               GitHub는 소프트웨어 개발프로젝트를 위한 버전 관리 및 협업
