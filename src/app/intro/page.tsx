@@ -48,10 +48,10 @@ export default function IntroPage() {
 
           <p className="text-center mt-6">
             <Link
-              href="https://github.com/begin306?tab=projects"
+              href="https://teamproject-woad.vercel.app/"
               className="text-green-600 "
             >
-              프로젝트 사이트 방문하기
+              프로젝트 사이트 방문하기.
             </Link>
           </p>
         </div>
